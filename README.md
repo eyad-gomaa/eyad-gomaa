@@ -6,7 +6,7 @@
 
 
 
-- 📫 How to reach me **gomaaeyad12@gmail.com**
+- 📫 How to reach me **gomaaeyad410@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/eyad-gomaa?tab=repositories**
 
 <div> <a href="https://twitter.com/eyad_gomaa1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
